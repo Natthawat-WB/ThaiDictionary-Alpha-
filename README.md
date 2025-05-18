@@ -4,7 +4,7 @@
 
 🔍 **An extension to search the meaning of Thai or English words quickly and easily, based on Google Search.**
 
-Made with ❤️ by DoHuge
+Made with ❤️ by NatthawatC
 
 ---
 
