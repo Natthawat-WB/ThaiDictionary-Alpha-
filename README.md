@@ -20,7 +20,7 @@ Made with ❤️ by NatthawatC
 
 ## 🛠 How to Install (Manual)
 
-1. Click the green **Code** button above and choose **Download ZIP**
+1. Download the ZIP file from the [Release page](https://github.com/Natthawat-WB/ThaiDictionary-Alpha-/releases) of this project.
 2. Extract the ZIP file
 3. Open `chrome://extensions` in your Chrome browser
 4. Turn on **Developer Mode** (top right)
